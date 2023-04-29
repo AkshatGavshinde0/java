@@ -1,5 +1,3 @@
-// hierarchicaal in java
-
 import java.util.*;
 import bank.*;
 
